@@ -1,0 +1,1 @@
+python person_detector_video.py --from_mail_id "bunnyrajender22@gmail.com" --pwd "xfvmqeyqhnqexzrk" --to_mail_id "bunnyrajender77@gmail.com"
